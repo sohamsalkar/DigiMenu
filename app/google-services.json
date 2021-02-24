@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24064264202",
+    "project_id": "digimenu-sohams",
+    "storage_bucket": "digimenu-sohams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24064264202:android:e55b8c16b62fbf713537f3",
+        "android_client_info": {
+          "package_name": "com.example.digimenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24064264202-3hft2deh3au5voapq16kdkssth82577q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmD-ZzBIUueWzRXsgzi0ZITfMPRnEHfQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24064264202-3hft2deh3au5voapq16kdkssth82577q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
