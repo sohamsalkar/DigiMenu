@@ -25,13 +25,13 @@
         android:id="@+id/textView"
         android:layout_width="347dp"
         android:layout_height="66dp"
+        android:rotationX="-2"
         android:text="By Soham Salkar"
         android:textAlignment="center"
-        android:textSize="17sp"
+        android:textColor="#7C7C7C"
+        android:textSize="18sp"
         android:textStyle="bold"
-        android:textColor="@color/cardview_dark_background"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
